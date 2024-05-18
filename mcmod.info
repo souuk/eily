@@ -1,0 +1,16 @@
+[
+{
+  "modid": "name/of/mod",
+  "name": "name/of/mod",
+  "description": "description/of/mod",
+  "version": "${desired/mod/version}",
+  "mcversion": {desired/minecraft/version}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["souuk,evyl"],
+  "credits": "your/credits/here",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
