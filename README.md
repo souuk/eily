@@ -22,5 +22,6 @@
 
 **Disclaimer:** All content and tools provided are for educational purposes only. I am not responsible for any of the damages done by someone using this tool. Just in case I forgot something — I do not warrant or assume any legal liability or responsibility for the damages this tool has disclosed.
 
+**Much Thanks to:** souwuk and literallysakura on discord. Please dm literallysakura for any trouble shooting issues :)
 
 
