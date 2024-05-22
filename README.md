@@ -43,10 +43,10 @@ haii... evyl finally sent me the sourced version of the rat, this time without t
 
 - Jar openers such as Visual Studio Code are a bit stupid when it comes to class files, as it's basically just java but converted into binary.
 - Tools such as [recaf](https://github.com/Col-E/Recaf) allow you to edit the class file without any issues.
-- Other tools such as [java decompilier](https://github.com/java-decompiler/jd-gui) or [vineflower](https://github.com/Vineflower/vineflower) might work, but I haven't used it before.
+- Other tools such as [java decompilier](https://github.com/java-decompiler/jd-gui) or [vineflower](https://github.com/Vineflower/vineflower) might work to assist in vscode, but I haven't used then before.
 
 **Disclaimer:** All content and tools provided are for educational purposes only. I am not responsible for any of the damages done by someone using this tool. Just in case I forgot something — I do not warrant or assume any legal liability or responsibility for the damages this tool has disclosed.
 
-**Much Thanks to:** souwuk and literallysakura on discord. Please dm literallysakura for any trouble shooting issues :)
+**Much Thanks to:** souwuk and literallysakura on discord. Please dm literallysakura for any troubleshooting issues :)
 
 
